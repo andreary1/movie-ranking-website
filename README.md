@@ -1,6 +1,6 @@
 # Movie Ranking Website
 
-This is a simple web application inspired by "100 Days of Code: The Complete Python Pro Bootcamp" course, made by Angela Yu. It allows users to rank their top 10 favorite movies. The project is built using Python with Flask, SQLAlchemy, and WTForms. It also integrates Bootstrap for styling and The Movie Database (TMDB) API for fetching movie details.
+This is a simple web application inspired by Angela Yu's course "100 Days of Code: The Complete Python Pro Bootcamp". It allows users to rank their top 10 favorite movies. The project is built using Python with Flask, SQLAlchemy, and WTForms. It also integrates Bootstrap for styling and The Movie Database (TMDB) API for fetching movie details.
 
 ## Features
 
